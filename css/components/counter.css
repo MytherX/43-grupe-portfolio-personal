@@ -1,0 +1,25 @@
+.counter_area { 
+    background: -webkit-linear-gradient(0deg, rgb(132, 144, 255) 0%, rgb(98, 189, 252) 100%);
+    color: rgb(255, 255, 255);
+    padding: 60px 0;
+}
+.count {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    color: rgb(255, 255, 255);
+}
+
+.numbers {
+    font-size: 35px;
+    color: #fff;
+}
+
+.textwhite {
+    font-size: 14px;
+    font-weight: 100;
+    color: #fff;
+}
